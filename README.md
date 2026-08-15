@@ -1,3 +1,7 @@
+<p align="right">
+  <b>English</b> · <a href="./README_RU.md">Русский</a>
+</p>
+
 # Market Liquidity Forecasting
 
 Academic research project (2021) on forecasting market liquidity from high-frequency BTC/USD transaction data with recurrent neural networks.
